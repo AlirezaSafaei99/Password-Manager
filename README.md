@@ -2,8 +2,6 @@
 
 The **Password Manager** is a secure and efficient tool designed to help you manage your passwords. It generates strong, unique passwords, stores them securely, and allows you to retrieve them when needed. With a user-friendly graphical interface built using Python's `tkinter` library, this application simplifies password management.
 
----
-
 ## 🚀 Features
 - **Password Generation:**
   - Create strong and unique passwords using letters, numbers, and symbols.
@@ -16,8 +14,6 @@ The **Password Manager** is a secure and efficient tool designed to help you man
 - **Reset and Focus:**
   - Automatically clear form fields after saving data for a seamless user experience.
 
----
-
 ## 🎮 How to Use
 1. **Generate a Password:**
    - Click the "Generate Password" button to create a secure password.
@@ -29,8 +25,6 @@ The **Password Manager** is a secure and efficient tool designed to help you man
    - If found, the email and password for the website will be displayed.
 4. **Reset Fields:**
    - Fields are reset automatically after saving or searching.
-
----
 
 ## 📷 Screenshots
 ### Main Interface:
